@@ -42,7 +42,7 @@ ul{
     border-radius: 1.5rem;
     padding: 2rem;
     background: var(--DarkBlue);
-    max-width: 375px;
+    max-width: 400px;
 }
 .main-star{
     padding: 1rem;
@@ -102,7 +102,7 @@ ul{
     border-radius: 1.5rem;
     padding: 2rem 1.25rem;
     background: var(--DarkBlue);
-    max-width: 375px;
+    max-width: 400px;
     text-align: center;
     display: flex;
     flex-direction: column;
