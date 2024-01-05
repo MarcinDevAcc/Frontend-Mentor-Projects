@@ -14,13 +14,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-Screenshot for site previev can be found inside this folder.
-(Screenshot-previev.jpg)
+![Screenshot](https://raw.github.com/MarcinDevAcc/Frontend-Mentor-Projects/main/Responsive-QR-%20code-component-%20site/Screenshot-previev.png)
 
 ### Links
 
 - Solution URL: (https://github.com/MarcinDevAcc/Frontend-Mentor-Projects)
-- Live previev page: 
+- Live previev page: https://my-project-beta-seven.vercel.app/
 
 ### Built with
 
