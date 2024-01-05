@@ -12,7 +12,9 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Main](https://raw.github.com/MarcinDevAcc/Frontend-Mentor-Projects/main/interactive-rating-component-main/Main-Block.png)
+![Hover](https://raw.github.com/MarcinDevAcc/Frontend-Mentor-Projects/main/interactive-rating-component-main/Hovereffect.png)
+![ThankYou](https://raw.github.com/MarcinDevAcc/Frontend-Mentor-Projects/main/interactive-rating-component-main/ThankYouBlock.png)
 
 ### Links
 
