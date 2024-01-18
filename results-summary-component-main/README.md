@@ -16,8 +16,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Screenshot
 
-![Desktop](./screenshot.jpg)
-![Mobile](./screenshot.jpg)
+![Desktop](https://github.com/MarcinDevAcc/Frontend-Mentor-Projects/blob/main/results-summary-component-main/Result_Summary_Desktop.png)
+![Mobile](https://github.com/MarcinDevAcc/Frontend-Mentor-Projects/blob/main/results-summary-component-main/Result_Summary_Mobile.png)
 
 ### Links
 
@@ -46,5 +46,4 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MarcinDevAcc](https://www.frontendmentor.io/profile/MarcinDevAcc)
