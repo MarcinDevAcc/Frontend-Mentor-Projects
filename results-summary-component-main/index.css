@@ -17,6 +17,13 @@
 --Dark-gray-blue: hsl(224, 30%, 27%);
 --Light-gray-blue: hsl(224, 25%, 62%);
 }
+@font-face {
+    font-family: 'HankenGrotesk';
+    font-display: swap;
+    font-weight: 500, 600, 700, 800;
+    src: url('assets/fonts/HankenGrotesk-VariableFont_wght.ttf') 
+    format('truetype');
+}
 img, svg {
   display: block;
   max-width: 100%;
