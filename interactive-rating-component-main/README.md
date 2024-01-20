@@ -18,7 +18,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-using-htmlcssjs-o8WVQkTM1P](https://www.frontendmentor.io/solutions/interactive-rating-component-using-htmlcssjs-o8WVQkTM1P)
 - Live Site URL: (https://interactiveratingcomponent-kappa.vercel.app/)
 
 ### Built with
